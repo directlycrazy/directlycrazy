@@ -1,6 +1,6 @@
 ### Hi there, I'm directlycrazy! 👋
 
-* 🔭 I'm currently working on [Hyzen](https://github.com/directlycrazy/Hyzen)
+* 🔭 I'm currently working on [Crawlers](https://github.com/directlycrazy/Crawlers)
 * 🌱 I'm learning TypeScript
 * ⚡ Fun fact: I am a person.
 
